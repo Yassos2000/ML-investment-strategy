@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=1.25
+scikit-learn>=1.3
+statsmodels>=0.14
+matplotlib>=3.8
+yfinance>=0.2
+requests>=2.30
+pyportfolioopt>=1.5
+scipy>=1.11
+lxml>=4.9

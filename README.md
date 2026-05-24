@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML Investment Strategy
 
 ML Investment Strategy is a complete Python pipeline for backtesting a monthly stock selection strategy on the S&P 500.
@@ -41,3 +42,6 @@ The strategy is evaluated against SPY over the 2018-2024 period. The output incl
 - max drawdown
 
 The final performance chart is saved in `results/strategy_performance.png`.
+=======
+# ML-investment-strategy
+>>>>>>> a3fa37dccc713b3f4c4a8d210bc65e50d82f4fe0
